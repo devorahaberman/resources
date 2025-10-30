@@ -1,0 +1,25 @@
+All the links I have not yet had the time to sort through properly:
+
+https://devhints.io/react
+
+https://zerotomastery.io/cheatsheets/react-cheat-sheet/
+
+https://www.shecodes.io/cheatsheets/react
+
+https://quizlet.com/92879410/north-development-process-flash-cards/
+
+https://github.com/north/north
+
+https://github.com/mobify/handbooks/blob/master/css-handbook/Readme.md
+
+https://github.com/mobify/handbooks/blob/master/photoshop-handbook/Readme.md
+
+https://cssguidelin.es/
+
+https://codeguide.co/
+
+https://brandingstyleguides.com/guide/starbucks-web/
+
+https://www.workwithindies.com/learn/this-resume-landed-an-interview-at-amazon-in-less-than-24-hours?utm_campaign=New+Email+Buddies&utm_source=Nates+Inbox&utm_medium=email 
+
+https://designverse.ai/?utm_campaign=home
