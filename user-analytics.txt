@@ -1,0 +1,21 @@
+Analytics Tools for User Feedback
+
+1. Hotjar - Heatmaps, session recordings, surveys, and feedback widgets.
+
+2. UserTesting - Remote usability testing with real users.
+
+3. Usabilla (by SurveyMonkey) - Collect feedback via embedded buttons, forms, and targeted surveys.
+
+4. Qualtrics - Advanced survey and experience management platform.
+
+5. Usersnap - Visual feedback tool for bug reporting and UX comments.
+
+6. Typeform - Conversational forms and surveys.
+
+7. Pendo - Product analytics + in-app feedback.
+
+8. SurveyMonkey - Flexible survey creation and analysis.
+
+9. Google Forms + Google Analytics - Basic feedback collection + behavior tracking.
+
+10. Canny - Feature request and feedback board.
